@@ -1,0 +1,6 @@
+[submodule "dissertation-frontend"]
+	path = dissertation-frontend
+	url = https://github.com/ishandvd/dissertation-frontend.git
+[submodule "dissertation-backend"]
+	path = dissertation-backend
+	url = https://github.com/ishandvd/dissertation-backend.git
